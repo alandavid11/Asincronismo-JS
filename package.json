@@ -1,0 +1,24 @@
+{
+  "name": "asincronismo-js",
+  "version": "1.0.0",
+  "description": "Curso asincronismo JS",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alandavid11/Asincronismo-JS.git"
+  },
+  "keywords": [
+    "Asincronismo",
+    "JavScript",
+    "js"
+  ],
+  "author": "Alan Gloria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alandavid11/Asincronismo-JS/issues"
+  },
+  "homepage": "https://github.com/alandavid11/Asincronismo-JS#readme"
+}
